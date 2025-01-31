@@ -1,3 +1,2 @@
-# Portfolio
-My Project Portfolio
-This time from vs code
+# Projects Portfolio
+Welcome to my project portfolio.
